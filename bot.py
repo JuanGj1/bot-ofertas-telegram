@@ -9,10 +9,10 @@ import os
 # ========================================
 # CONFIGURACIÓN — Lee de variables de entorno
 # ========================================
-TELEGRAM_TOKEN = os.environ.get("8641134190:AAHH96wQ5H3_TJjYfKK1meCJ5Cu-hMl4EuI")
+TELEGRAM_TOKEN = "8641134190:AAHH96wQ5H3_TJjYfKK1meCJ5Cu-hMl4EuI"
 CHANNEL_ID = os.environ.get("CHANNEL_ID", "@OfertasJG")
 ADMITAD_BASE64 = os.environ.get("ZGc4bHhlOEZHSVROZXlzeE9XcWpEbU05akxjNmUwOjh6QWRMNW5LbDBSdFE2RXpqcnVuWWlSWkZaeHhSZg==")
-WEBSITE_ID = os.environ.get("2943808")
+WEBSITE_ID = "2943808"
 DESCUENTO_MINIMO = 5
 # ========================================
 
