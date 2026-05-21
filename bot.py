@@ -1,9 +1,6 @@
 import asyncio
 import requests
-import xml.etree.ElementTree as ET
 from telegram import Bot
-from apscheduler.schedulers.asyncio import AsyncIOScheduler
-from datetime import datetime
 import os
 # ========================================
 # CAMBIA SOLO ESTOS 3 VALORES
