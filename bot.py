@@ -7,7 +7,7 @@ from datetime import datetime
 # ========================================
 # CAMBIA SOLO ESTOS 3 VALORES
 # ========================================
-TELEGRAM_TOKEN = "8641134190:AAHH96wQ5H3_TJjYfKK1meCJ5Cu-hMl4EuI"
+TELEGRAM_TOKEN = "8641134190:AAGIW30nbEf-HZkaM1zDJAOFjtTZniW-VCI"
 CHANNEL_ID = "@OfertasJG"
 ADMITAD_BASE64 = "ZGc4bHhlOEZHSVROZXlzeE9XcWpEbU05akxjNmUwOjh6QWRMNW5LbDBSdFE2RXpqcnVuWWlSWkZaeHhSZg=="
 WEBSITE_ID = "2943808"
